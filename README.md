@@ -1,11 +1,11 @@
 # Hi, I'm Shaik Munsif 👋
 
-🚀 **Angular Developer** with 3.5+ years of experience building scalable web applications
+🚀 **Angular Developer** with 4.5+ years of experience building scalable web applications
 
 - 🔭 Currently working on enterprise Angular applications
 - 💡 Specializing in custom form controls, NGRX, and state management
 - 🌐 Portfolio: [munsifshaik.com](https://munsifshaik.com)
-- 📫 Reach me: contact@munsifshaik.com
+- 📫 Reach me: shaikmunsif4@gmail.com
 - 📍 Hyderabad, India
 
 ## 🛠️ Tech Stack
@@ -23,7 +23,6 @@
 ## 🔗 Connect with me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-munsifshaik.com-blue?style=flat&logo=google-chrome&logoColor=white)](https://munsifshaik.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shaikmunsif-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaikmunsif)
-[![Twitter](https://img.shields.io/badge/Twitter-shaikmunsif-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/shaikmunsif)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shaikmunsif-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-munsif-03bbba12a/)
 [![GitHub](https://img.shields.io/badge/GitHub-shaikmunsif-181717?style=flat&logo=github&logoColor=white)](https://github.com/shaikmunsif)
 
